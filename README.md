@@ -24,13 +24,7 @@ pip install -r requirements.txt
 
 ## Setup
 
-1. Clone this repository:
-```bash
-git clone <repository-url>
-cd thesis-pipeline
-```
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
